@@ -1,0 +1,1 @@
+a = 10 # a is a integer type variable which holds the value  10
