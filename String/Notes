@@ -3,4 +3,3 @@ TODO
 str="hello" "this is a string type variable"
 print(str)
 
-Can you please explain it

@@ -1,0 +1,15 @@
+
+1. If any thing is indexed , then it is maintaining the Order as well
+2. If any thing is indexed , While loop will work
+
+
+# -11, -10 -9, -8  -7, -6, -5  -4, -3  -2, -1  --> -Ve Index
+#  S    I   M   P   L   I   L   E   A   R   N
+#  0,   1,  2,  3,  4,  5,  6,  7,  8,  9, 10  --> +Ve Index
+
+How I get index of particular letter??
+index of "S" -> 0,-11
+
+index of "I" -> 1,5
+
+
